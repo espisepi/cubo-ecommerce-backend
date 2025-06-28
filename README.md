@@ -5,4 +5,6 @@
 
 # espisepi notes
 
-Levantar docker-compose.yml con base de datos postgres: docker compose up -d
+Levantar docker-compose.yml con base de datos postgres:
+
+docker compose up -d
